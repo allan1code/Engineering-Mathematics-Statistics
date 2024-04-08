@@ -1,2 +1,2 @@
-# Engineering-Mathematics-Statistics
+# Engineering Mathematics Statistics
 Metropolia UAS.
